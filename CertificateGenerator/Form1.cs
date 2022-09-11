@@ -89,5 +89,10 @@ namespace CertificateGenerator
         {
             MessageBox.Show("Изменния для GIT");
         }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("Кнопка для merge");
+        }
     }
 }
